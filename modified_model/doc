@@ -3,3 +3,5 @@ Three major changes have been made: </br>
 1) when reading each json file generated directly from Openpose, I used to read all the people's key points, and then turn to next json file; this time each person's key points will be read first through all the json files, and then will be the next person's turn, so the key point series will be more continuous. </br>
 2) A third class: 'others' was added, and another 441 videos, sampled randomly from Moments dataset which have already excluded all the videos related to talking, were used to generate 40000 json files and used in training. </br>
 3) Time step including 8,16,32 was tested and I found 8 could reach best accuracy.</br>
+
+The trained model is uploaded for easy use, please download the pth file before running it.
