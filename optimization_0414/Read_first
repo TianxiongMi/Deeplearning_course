@@ -1,6 +1,6 @@
-This is an optimized model for my deep learning course </br>
-The optimization include: </br>
-  1) Add face data into account </br>
-  2) Make some parameter optimization: greatly increase the number of epochs, hidden units and layer length, and store the best model during training </br>
-Some more data, including one csv files of 'talking to people', and the weights and bias file are stored in a google drive, please check the following link: </br>
+This is an optimized model for my deep learning course <br />
+The optimization include: <br />
+  1) Add face data into account <br />
+  2) Make some parameter optimization: greatly increase the number of epochs, hidden units and layer length, and store the best model during training <br />
+Some more data, including one csv files of 'talking to people', and the weights and bias file are stored in a google drive, please check the following link: <br />
 https://drive.google.com/drive/folders/132b-upee26AfXM2m3xQxXrSiD--JK6ur?usp=sharing
