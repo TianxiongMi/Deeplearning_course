@@ -4,3 +4,4 @@ The optimization include:
   2) Make some parameter optimization: greatly increase the number of epochs, hidden units and layer length, and store the best model during training 
 Some more data, including one csv files of 'talking to people', and the weights and bias file are stored in a google drive, please check the following link: 
 https://drive.google.com/drive/folders/132b-upee26AfXM2m3xQxXrSiD--JK6ur?usp=sharing
+The csv files containing 'test' are from the five test videos I posted on youtube channel, they can be ran with the trained model to test the performance of the model
